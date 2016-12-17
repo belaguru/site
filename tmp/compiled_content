@@ -1,4 +1,4 @@
-{:	data{GI"/2015-04/:ET{:default{	:	lastI"3_<!DOCTYPE html>
+{:	data{êI"/2015-04/:ET{:default{	:	lastI"öE<!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -6,7 +6,8 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Geek Night Hyderabad - Apr 2015</title>
+    <title>Dalavai Infrastructure</title>
+    <link rel="icon" type="image/png" href="./img/logononame.png" />
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -27,250 +28,361 @@
 
     
     <section id="intro" class="feature">
-        <div class="row logo">
-            <div class="large-12 columns">
-                <img src="./img/logo.png" alt="Dalavai" align="center" />
-                <h6>Dalavai infra a company built on moral and has 35 years of construction
-                experience</h6>
-            </div>
+      <div class="row logo">
+        <div class="large-12 columns">
+          <img src="./img/logo.png" alt="Dalavai" align="center"/>
+          <h5>Dalavai infra a company built on moral and has 35 years of construction
+            experience</h5>
         </div>
+
+        <br/>
+
+        <div class="large-12 columns" data-anchor-target="#_about" align="left">
+            <h6>
+                We at <b>DALAVAI INFRASTRUCTURE</b> are the creative Leader in commercial building construction works.
+                Dalavai Infrastructure has been privileged to work on many different projects across South India. We enjoy
+                an excellent reputation for quality Constructions.
+            </h6>
+<br/>
+            <h6>
+                The workmanship adherence to time schedule and financial position has been stated to be satisfactory by all
+                the departments we have worked with. Since a decade now we have executed several important and time bound
+                prestigious works of large magnitude.
+            </h6>
+        </div>
+      </div>
+
+      <!--<div class="row"-->
+           <!--data-bottom="transform:translateY(-5em)" data&#45;&#45;100-bottom="transform:translateY(0)">-->
+        <!--<div class="large-12 columns social">-->
+          <!--<a rel="nofollow" href="https://www.facebook.com/" target="_blank" title="Like us on FaceBook" onclick="ga('send', 'event', 'social', 'like')"><i class="icon-like"></i></a>-->
+          <!--<a rel="nofollow" href="https://twitter.com/" target="_blank" title="Tweet hashtag #geeknighthyderabad" onclick="ga('send', 'event', 'social', 'twitter')"><i class="icon-twitter-2"></i></a>-->
+          <!--<a rel="nofollow" href="mailto:info@dalavai.com" title="Email us" onclick="ga('send', 'event', 'social', 'email')"><i class="icon-mail"></i></a>-->
+          <!--&lt;!&ndash; NOTE: Last video link is line-wrapping in small screens like iOS a rel="nofollow" href="#" title="Videos (coming soon)"><i class="icon-youtube"></i></a &ndash;&gt;-->
+        <!--</div>-->
+      <!--</div>-->
+
     </section>
 
-    <section id="about" class="feature">
-    <div class="row"
-         data-bottom="transform:translateY(-5em)" data--100-bottom="transform:translateY(0)">
-        <div class="large-12 columns social">
-            <a rel="nofollow" href="https://www.facebook.com/GeeknightHyderabad?viewer_id=100006569229519" target="_blank" title="Like us on FaceBook" onclick="ga('send', 'event', 'social', 'like')"><i class="icon-like"></i></a>
-            <a rel="nofollow" href="https://twitter.com/intent/tweet?url=twhyderabad.github.io/geeknight&text=Whats+up&hashtags=geeknighthydrebad" target="_blank" title="Tweet hashtag #geeknighthyderabad" onclick="ga('send', 'event', 'social', 'twitter')"><i class="icon-twitter-2"></i></a>
-            <a rel="nofollow" href="mailto:geeknight.hyderabad@Dalavai.com" title="Email us" onclick="ga('send', 'event', 'social', 'email')"><i class="icon-mail"></i></a>
-            <!-- NOTE: Last video link is line-wrapping in small screens like iOS a rel="nofollow" href="#" title="Videos (coming soon)"><i class="icon-youtube"></i></a -->
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="large-12 columns" data-anchor-target="#_about">
-            <blockquote>
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  We at <b>DALAVAI INFRASTRUCTURE</b> are the creative Leader in commercial building construction works. Dalavai Infrastructure has been privileged to work on many different projects across South India. We enjoy an excellent reputation for quality Constructions.
-                    </small>
-</p>
-
-              <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  The workmanship adherence to time schedule and financial position has been stated to be satisfactory by all the departments we have worked with. Since a decade now we have executed several important and time bound prestigious works of large magnitude.
-                  </small> </p>
-
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"><small>Our clients have high expectations and goals, but we differentiate ourselves by delivering more cost effective solutions quicker and more professionally. Our goal is always to help our clients deliver their goods or services more effectively.
-                </small></p>
-            </blockquote>
-        </div>
-    </div>
-</section>
+    <section id="past" class="feature">
+  <div class="row" data-bottom="transform:translateY(-10em)" data--100-bottom="transform:translateY(0em)">
+    <h2>Past Projects</h2>
+  </div>
 
 
-    <section id="archive" class="feature">
-    <div class="row"
-         data-bottom="transform:translateY(-5em)" data--100-bottom="transform:translateY(0)">
-        <div class="large-12 columns social">
-            <a rel="nofollow" href="https://www.facebook.com/GeeknightHyderabad?viewer_id=100006569229519" target="_blank" title="Like us on FaceBook" onclick="ga('send', 'event', 'social', 'like')"><i class="icon-like"></i></a>
-            <a rel="nofollow" href="https://twitter.com/intent/tweet?url=twhyderabad.github.io/geeknight&text=Whats+up&hashtags=geeknighthydrebad" target="_blank" title="Tweet hashtag #geeknighthyderabad" onclick="ga('send', 'event', 'social', 'twitter')"><i class="icon-twitter-2"></i></a>
-            <a rel="nofollow" href="mailto:geeknight.hyderabad@Dalavai.com" title="Email us" onclick="ga('send', 'event', 'social', 'email')"><i class="icon-mail"></i></a>
-            <!-- NOTE: Last video link is line-wrapping in small screens like iOS a rel="nofollow" href="#" title="Videos (coming soon)"><i class="icon-youtube"></i></a -->
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="large-12 columns" data-anchor-target="#_about">
-            <blockquote>
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  We at <b>DALAVAI INFRASTRUCTURE</b> are the creative Leader in commercial building construction works. Dalavai Infrastructure has been privileged to work on many different projects across South India. We enjoy an excellent reputation for quality Constructions.
-                    </small>
-</p>
-
-              <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  The workmanship adherence to time schedule and financial position has been stated to be satisfactory by all the departments we have worked with. Since a decade now we have executed several important and time bound prestigious works of large magnitude.
-                  </small> </p>
-
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"><small>Our clients have high expectations and goals, but we differentiate ourselves by delivering more cost effective solutions quicker and more professionally. Our goal is always to help our clients deliver their goods or services more effectively.
-                </small></p>
-            </blockquote>
-        </div>
-    </div>
-</section>
-
-    <section id="header" class="feature">
-    <div class="row"
-         data-bottom="transform:translateY(-5em)" data--100-bottom="transform:translateY(0)">
-        <div class="large-12 columns social">
-            <a rel="nofollow" href="https://www.facebook.com/GeeknightHyderabad?viewer_id=100006569229519" target="_blank" title="Like us on FaceBook" onclick="ga('send', 'event', 'social', 'like')"><i class="icon-like"></i></a>
-            <a rel="nofollow" href="https://twitter.com/intent/tweet?url=twhyderabad.github.io/geeknight&text=Whats+up&hashtags=geeknighthydrebad" target="_blank" title="Tweet hashtag #geeknighthyderabad" onclick="ga('send', 'event', 'social', 'twitter')"><i class="icon-twitter-2"></i></a>
-            <a rel="nofollow" href="mailto:geeknight.hyderabad@Dalavai.com" title="Email us" onclick="ga('send', 'event', 'social', 'email')"><i class="icon-mail"></i></a>
-            <!-- NOTE: Last video link is line-wrapping in small screens like iOS a rel="nofollow" href="#" title="Videos (coming soon)"><i class="icon-youtube"></i></a -->
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="large-12 columns" data-anchor-target="#_about">
-            <blockquote>
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  We at <b>DALAVAI INFRASTRUCTURE</b> are the creative Leader in commercial building construction works. Dalavai Infrastructure has been privileged to work on many different projects across South India. We enjoy an excellent reputation for quality Constructions.
-                    </small>
-</p>
-
-              <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  The workmanship adherence to time schedule and financial position has been stated to be satisfactory by all the departments we have worked with. Since a decade now we have executed several important and time bound prestigious works of large magnitude.
-                  </small> </p>
-
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"><small>Our clients have high expectations and goals, but we differentiate ourselves by delivering more cost effective solutions quicker and more professionally. Our goal is always to help our clients deliver their goods or services more effectively.
-                </small></p>
-            </blockquote>
-        </div>
-    </div>
-</section>
-
-    <section id="intro" class="feature">
-    <div class="row"
-         data-bottom="transform:translateY(-5em)" data--100-bottom="transform:translateY(0)">
-        <div class="large-12 columns social">
-            <a rel="nofollow" href="https://www.facebook.com/GeeknightHyderabad?viewer_id=100006569229519" target="_blank" title="Like us on FaceBook" onclick="ga('send', 'event', 'social', 'like')"><i class="icon-like"></i></a>
-            <a rel="nofollow" href="https://twitter.com/intent/tweet?url=twhyderabad.github.io/geeknight&text=Whats+up&hashtags=geeknighthydrebad" target="_blank" title="Tweet hashtag #geeknighthyderabad" onclick="ga('send', 'event', 'social', 'twitter')"><i class="icon-twitter-2"></i></a>
-            <a rel="nofollow" href="mailto:geeknight.hyderabad@Dalavai.com" title="Email us" onclick="ga('send', 'event', 'social', 'email')"><i class="icon-mail"></i></a>
-            <!-- NOTE: Last video link is line-wrapping in small screens like iOS a rel="nofollow" href="#" title="Videos (coming soon)"><i class="icon-youtube"></i></a -->
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="large-12 columns" data-anchor-target="#_about">
-            <blockquote>
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  We at <b>DALAVAI INFRASTRUCTURE</b> are the creative Leader in commercial building construction works. Dalavai Infrastructure has been privileged to work on many different projects across South India. We enjoy an excellent reputation for quality Constructions.
-                    </small>
-</p>
-
-              <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"> <small>
-                  The workmanship adherence to time schedule and financial position has been stated to be satisfactory by all the departments we have worked with. Since a decade now we have executed several important and time bound prestigious works of large magnitude.
-                  </small> </p>
-
-                <p data--100-bottom-top="transform:perspective(400px) rotateX(90deg) scale(.5);transform-origin:50% 0" data--100-bottom="transform:perspective(400px) rotateX(0deg) scale(1)"><small>Our clients have high expectations and goals, but we differentiate ourselves by delivering more cost effective solutions quicker and more professionally. Our goal is always to help our clients deliver their goods or services more effectively.
-                </small></p>
-            </blockquote>
-        </div>
-    </div>
-</section>
-
-
-    <!--<section id="agenda" class="feature">
-    <div class="row" data-bottom="transform:translateY(-10em)" data--100-bottom="transform:translateY(0em)">
-        <h2>Agenda</h2>
-    </div>
-
-    <div class="timings">
+  
+      <div class="row">
         
-          <div class="row">
-            <div class="large-4 columns time" id="agenda-0"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>
-                    6:30 pm
-                </p>
+            
+            <div class="large-6 columns">
+              <img src="./img/past/ADA CAD CAM CENTRE.jpg"/>
+              <br>
+              <div>ada cad cam centre</div>
             </div>
-            <div class="large-8 columns summary" data-anchor-target="#agenda-0"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>Why Geek Night?</p>
-                
-                
-                
-                    <p><small>By:
-                    
-                        Mayur Wadhwa
-                    
-                    </small></p>
-                
-                
-            </div>
-          </div>
         
-          <div class="row">
-            <div class="large-4 columns time" id="agenda-1"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>
-                    6:50 pm
-                </p>
+            
+            <div class="large-6 columns">
+              <img src="./img/past/AJAX FIORI CORPORATE OFFICE.jpg"/>
+              <br>
+              <div>ajax fiori corporate office</div>
             </div>
-            <div class="large-8 columns summary" data-anchor-target="#agenda-1"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>CI and CD</p>
-                
-                    <p><small>Being agile provides various interesting challenges for the teams adopting Agile methodologies. One of the key differentiators of Agile from traditional methodologies is the quick feedback cycle which includes frequent releases which has its own set of considerations. Continuous Integration(CI) and Continuous Delivery(CD) are a set of practices, patterns and tools that will help teams to deal with unique challenges that they face with frequent releases. This talk will concentrate on helping teams to adopt CI/CD and make it an enabler and not be a blocker in their journey to be Agile.</small></p>
-                
-                
-                    <p><img src="img/speaker/sreedhar_and_garima.jpg" alt="Garima Sharma & Sreedhar Joshi" /></p>
-                
-                
-                    <p><small>By:
-                    
-                        Garima Sharma & Sreedhar Joshi
-                    
-                    </small></p>
-                
-                
-            </div>
-          </div>
-        
-          <div class="row">
-            <div class="large-4 columns time" id="agenda-2"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>
-                    7:20 pm
-                </p>
-            </div>
-            <div class="large-8 columns summary" data-anchor-target="#agenda-2"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>Break</p>
-                
-                
-                
-                
-            </div>
-          </div>
-        
-          <div class="row">
-            <div class="large-4 columns time" id="agenda-3"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>
-                    7:30 pm
-                </p>
-            </div>
-            <div class="large-8 columns summary" data-anchor-target="#agenda-3"
-                 data-bottom="transform:rotateX(90deg) scale(0);opacity:0"
-                 data--200-bottom="transform:rotateX(0) scale(1);opacity:1">
-                <p>CD: zero downtime deployment</p>
-                
-                    <p><small></small></p>
-                
-                
-                    <p><img src="img/speaker/kashi_and_vikram.jpg" alt="Kashi Reddy & Vikram" /></p>
-                
-                
-                    <p><small>By:
-                    
-                        Kashi Reddy & Vikram
-                    
-                    </small></p>
-                
-                
-            </div>
-          </div>
         
       </div>
-    </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/AJAX FIORI EXPOSED CONCRETE WORK.jpg"/>
+              <br>
+              <div>ajax fiori exposed concrete work</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/ANNEXE TO ISRO HQ.jpg"/>
+              <br>
+              <div>annexe to isro hq</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/ANTRIX CORPORATION BUILDING FOR ISRO.jpg"/>
+              <br>
+              <div>antrix corporation building for isro</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/BANGALORE GOLF CLUB.jpg"/>
+              <br>
+              <div>bangalore golf club</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/COCHIN INTERNATIONAL AIRPORT.jpg"/>
+              <br>
+              <div>cochin international airport</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/College for Stem - Jigani.jpg"/>
+              <br>
+              <div>college for stem - jigani</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/CONCRETE ROAD AT MANDUR FOR BBMP.jpg"/>
+              <br>
+              <div>concrete road at mandur for bbmp</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/ENGINE TEST BEDS AT MITSUBISHI MYSORE.jpg"/>
+              <br>
+              <div>engine test beds at mitsubishi mysore</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/MANUFACTURING UNIT FOR AJAX FIORI.jpg"/>
+              <br>
+              <div>manufacturing unit for ajax fiori</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/MITSUBISHI DIESEL ENGINES INSIDE MYSORE.jpg"/>
+              <br>
+              <div>mitsubishi diesel engines inside mysore</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/MITSUBISHI DIESEL ENGINES Mysore.jpg"/>
+              <br>
+              <div>mitsubishi diesel engines mysore</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/MULTI UTILITY CENTRE FOR ADA.jpg"/>
+              <br>
+              <div>multi utility centre for ada</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/ORNAMENTAL COMPOUND WALL BANNIMANTAP MYSORE.jpg"/>
+              <br>
+              <div>ornamental compound wall bannimantap mysore</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/POOL AT KC PALCE CLUB Bangalore.jpg"/>
+              <br>
+              <div>pool at kc palce club bangalore</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/RAJATHA BHAVAN FOR BWSSB.jpg"/>
+              <br>
+              <div>rajatha bhavan for bwssb</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/RESIDENTIAL APPARTMENT Hosur Road Bangalore.jpg"/>
+              <br>
+              <div>residential appartment hosur road bangalore</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/RESIDENTIAL SCHOOL AT WAYANAD KERALA.jpg"/>
+              <br>
+              <div>residential school at wayanad kerala</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/RIVER INTAKE JACK WELL AT COCHIN.jpg"/>
+              <br>
+              <div>river intake jack well at cochin</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/Road at Mitsubishi Factory.jpg"/>
+              <br>
+              <div>road at mitsubishi factory</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/ROAD WORK AT KOLAR.jpg"/>
+              <br>
+              <div>road work at kolar</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/SEZ BHAVAN AT Whitefield BANGALORE.jpg"/>
+              <br>
+              <div>sez bhavan at whitefield bangalore</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/WATER TANK  SYSTEM  AT COCHIN INTERNATIONAL AIRPORT.jpg"/>
+              <br>
+              <div>water tank  system  at cochin international airport</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/WATER TANK AND LINES AT KINFRA KANNUR.jpg"/>
+              <br>
+              <div>water tank and lines at kinfra kannur</div>
+            </div>
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/WATER TANK SYSTEM AT PILANI RAJASTHAN.jpg"/>
+              <br>
+              <div>water tank system at pilani rajasthan</div>
+            </div>
+        
+      </div>
+  
+      <div class="row">
+        
+            
+            <div class="large-6 columns">
+              <img src="./img/past/WATER TREATMENT PLANT AT PILANI.jpg"/>
+              <br>
+              <div>water treatment plant at pilani</div>
+            </div>
+        
+      </div>
+  
+
+  <!--<div class="row">-->
+    <!--<div class="large-6 columns">-->
+      <!--<img src="./img/past/BANGALORE GOLF CLUB.jpg"/>-->
+
+      <!--<div>Bangalore Golf Club</div>-->
+    <!--</div>-->
+    <!--<div class="large-6 columns">-->
+      <!--<img src="./img/past/COLLEGE FOR STEM.JPG"/>-->
+
+      <!--<div>College for STEM - Jigani</div>-->
+    <!--</div>-->
+  <!--</div>-->
+  <!--<div class="row">-->
+    <!--<div class="large-6 columns">-->
+      <!--<img src="./img/past/AJAX FIORI EXPOSED CONCRETE WORK.jpg"/>-->
+
+      <!--<div>AJAX Fiori exposed concrete</div>-->
+    <!--</div>-->
+    <!--<div class="large-6 columns">-->
+      <!--<img src="./img/past/MANUFACTURING UNIT FOR AJAX FIORI.jpg"/>-->
+
+      <!--<div>AJAX manufacturing unit</div>-->
+    <!--</div>-->
+  <!--</div>-->
+  <!--<div class="row">-->
+    <!--<div class="large-6 columns">-->
+      <!--<img src="./img/past/MITSUBISHI DIESEL ENGNES AT MYSORE.JPG"/>-->
+
+      <!--<div>Mitsubishi diesel engines at mysore</div>-->
+    <!--</div>-->
+  <!--</div>-->
 </section>
--->
+
+
+    <section id="present" class="feature">
+  <div class="row" data-bottom="transform:translateY(-10em)" data--100-bottom="transform:translateY(0em)">
+    <h2>Current and Future Projects</h2>
+  </div>
+
+  <div class="row">
+    <div class="large-6 columns"  >
+      <img src="./img/present/APPARTMENT AT BOMMASANDRA.jpg"/>
+      <div>Appartment at bommasandra</div>
+    </div>
+    <div class="large-6 columns" >
+      <img src="./img/present/CIVIL WORKS AT CENTRE FOR NEUROSCIENCE AT IISC BANGALORE.jpg"/>
+      <div>Neuroscience IISC Bangalore</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-6 columns"  >
+      <img src="./img/present/HYDRAULICS LAB AT IISC BANGALORE.jpg"/>
+      <div>Hydraulics lab at iisc Bangalore</div>
+    </div>
+    <div class="large-6 columns" >
+      <img src="./img/present/HANGING STRUCTURE AT SANJAYNAGAR.jpg"/>
+      <div>Hanging structure at Sanjaynagar</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-6 columns"  >
+      <img src="./img/present/INDOOR STADIUM.jpg"/>
+      <div>Indoor stadium</div>
+    </div>
+  </div>
+</section>
 
     <section id="location" class="feature">
     <div class="row" data-bottom="transform:translateY(-10em)" data--100-bottom="transform:translateY(0em)">
@@ -278,43 +390,27 @@
     </div>
 
     <div class="row">
-        <div class="large-4 columns address" data--100-bottom-top="transform:translateX(-100%)" data--100-bottom="transform:translateX(0)">
+        <div class="large-5 columns address" data--100-bottom-top="transform:translateX(-100%)" data--100-bottom="transform:translateX(0)">
             <p>
-                <span>Dalavai Technologies Pvt. Ltd.</span>
-                <span>3<sup>rd</sup> Floor, Apurupa Silpi</span>
-                <span>Above KFC, Gachibowli Village </span>
-                <span>Serilingampally Mandal, RR Dist - Hyd - 500032</span>
-                <span><small><a href="https://www.google.com/maps/place/Dalavai+Hyderabad,+Apurupa+Slipi+Sy+No+124+Part,+3rd+floor+Gachilbowli+Village+Above+KFC+Serilingampally+Mandal+RR+Dist+-+Hyd+-+500032/@17.443011,78.357426,17z/data=!3m1!4b1!4m2!3m1!1s0x3bcb9395ed638f61:0x49acd498fc2f1237?hl=en" target="_blank" rel="nofollow">&laquo; Open in Google Maps &raquo;</a></small></span>
+              <span>Dalavai Infrastructure</span>
+              <span>No. 19, 2nd Main, AECS Layout,</span>
+              <span>Aswathnagar, RMV Extn Stg II,</span>
+              <span>Bangalore-560094</span>
+              <br/>
+              <span>info@dalavai.co.in</span>
+              <span>jmgreddy@dalavai.co.in</span>
+              <br/>
+              <span>Ph    +9180 23513669</span>
+              <span>Fax  +9180 41687765</span>
+              <span><small><a href="https://www.google.co.in/maps/place/19,+2+nd+Main+Rd,+Ramkrishna+Layout,+Armane+Nagar,+Bengaluru,+Karnataka+560094/@13.028047,77.5796548,19z/data=!3m1!4b1!4m2!3m1!1s0x3bae17c6af0bc933:0x1215ff2519dba073?hl=en" target="_blank" rel="nofollow">&laquo; Open in Google Maps &raquo;</a></small></span>
             </p>
         </div>
 
-        <div class="large-8 columns map" data-anchor-target=".address" data--100-bottom-top="transform:translateX(100%)" data--100-bottom="transform:translateX(0)">
-            <a href="https://www.google.com/maps/place/Dalavai+Hyderabad,+Apurupa+Slipi+Sy+No+124+Part,+3rd+floor+Gachilbowli+Village+Above+KFC+Serilingampally+Mandal+RR+Dist+-+Hyd+-+500032/@17.443011,78.357426,17z/data=!3m1!4b1!4m2!3m1!1s0x3bcb9395ed638f61:0x49acd498fc2f1237?hl=en" target="_blank" rel="nofollow">
+        <div class="large-7 columns map" data-anchor-target=".address" data--100-bottom-top="transform:translateX(100%)" data--100-bottom="transform:translateX(0)">
+            <a href="https://www.google.co.in/maps/place/19,+2+nd+Main+Rd,+Ramkrishna+Layout,+Armane+Nagar,+Bengaluru,+Karnataka+560094/@13.028047,77.5796548,19z/data=!3m1!4b1!4m2!3m1!1s0x3bae17c6af0bc933:0x1215ff2519dba073?hl=en
+" target="_blank" rel="nofollow">
                 <img src="./img/map.png" alt="Map" align="center" />
             </a>
-        </div>
-    </div>
-</section>
-
-
-    <section id="archive" class="feature">
-    <div class="row" data-bottom="transform:translateY(-10em)" data--100-bottom="transform:translateY(0em)">
-        <h2>Editions</h2>
-    </div>
-
-    <div class="row">
-        <div class="large-12 columns">
-            <ul class="grid">
-                
-                <li>
-                    <a href="./" data-bottom="transform:rotateZ(180deg) rotateY(90deg) scale(0);opacity:0;transform-origin:50% 0" data--150-bottom="transform:rotateZ(0deg) rotateY(0) scale(1);opacity:1" class="active">
-                        <div class="month">Apr</div>
-                        <div class="day">01</div>
-                        <div class="year">2015</div>
-                    </a>
-                </li>
-                
-            </ul>
         </div>
     </div>
 </section>
@@ -328,23 +424,14 @@
       </ul>
       <section class="top-bar-section">
         <ul class="left">
-          <li><a href="http://www.dalavai.com" target="_blank"
+          <li><a href="http://www.dalavai.co.in" target="_blank"
                  onclick="ga('send', 'event', 'tw', 'tw')">Dalavai</a>
           </li>
         </ul>
         <ul class="right">
-
-          <li><a href="#about">About</a></li>
           <li><a href="#past">Past</a></li>
           <li><a href="#present">Present</a></li>
-          <li><a href="#future">Future</a></li>
           <li><a href="#location">Location</a></li>
-          <li>
-            <a href="" target="_blank" rel="nofollow"
-               onclick="ga('send', 'event', 'talk', 'talk')">
-              Contact Us
-            </a>
-          </li>
         </ul>
       </section>
     </nav>
@@ -352,33 +439,12 @@
 </header>
 
 
-    <footer id="footer" class="feature">
-    <div class="row">
-        <div class="large-12 columns">
-            <p><small>
-                <a href=".">Geek Night Hyderabad</a> sponsored by
-                <a rel="nofollow" target="_blank" href="//Dalavai.com">Dalavai</a><br />
-                Built with
-                <a rel="nofollow" target="_blank" href="//html5boilerplate.com">HTML5 Boilerplate</a>,
-                <a rel="nofollow" target="_blank" href="//foundation.zurb.com">Zurb Foundation</a>,
-                <a rel="nofollow" target="_blank" href="//github.com/Prinzhorn/skrollr">Skrollr</a>,
-                <a rel="nofollow" target="_blank" href="//daneden.me/animate/">Animate</a>,
-                <a rel="nofollow" target="_blank" href="//nanoc.ws">Nanoc</a> &amp;
-                <a rel="nofollow" target="_blank" href="//fontello.com">Fontello</a>
-            </small></p>
-        </div>
-    </div>
-</footer>
-
-
-    <script>window.targetDate = new Date(1427893200 * 1000)</script>
-    <script src="js/ticker.js"></script>
-
-    <script src="js/skrollr.min.js"></script>
     <script>
-        var mobileCheck = (function(a){return /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))})(navigator.userAgent||navigator.vendor||window.opera);
+        var mobileCheck = (function (a) {
+            return /(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))
+        })(navigator.userAgent || navigator.vendor || window.opera);
         if (!mobileCheck) {
-            var s = skrollr.init({ forceHeight: false });
+            var s = skrollr.init({forceHeight: false});
         }
     </script>
 
@@ -487,7 +553,7 @@ agenda:
 # Nothing else needed down here
 ;T;	@;
 @;{;@;	@;
-@I"/404.html/;T{;{ ;{ I"/crossdomain.xml/;T{;{ ;{ I"/css/_animate.scss/;T{;{ ;{ I"/css/_normalize.scss/;T{;{ ;{ I"/css/_variables.scss/;T{;{ ;{ I"/css/app.sass/;T{;{;I"•Ç/*! normalize.css v2.1.2 | MIT License | git.io/normalize */
+@I"/404.html/;T{;{ ;{ I"/crossdomain.xml/;T{;{ ;{ I"/css/_animate.scss/;T{;{ ;{ I"/css/_normalize.scss/;T{;{ ;{ I"/css/_variables.scss/;T{;{ ;{ I"/css/app.sass/;T{;{;I"b/*! normalize.css v2.1.2 | MIT License | git.io/normalize */
 /* ==========================================================================
    HTML5 display definitions
    ========================================================================== */
@@ -649,7 +715,7 @@ q {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-small, #archive .grid a .year {
+small {
   font-size: 80%; }
 
 /**
@@ -946,11 +1012,9 @@ li,
 h1,
 h2,
 h3,
-#archive .grid a .day,
 h4,
 h5,
 h6,
-#archive .grid a .month,
 pre,
 form,
 p,
@@ -985,7 +1049,7 @@ p {
     font-style: italic; }
 
 /* Default header styles */
-h1, h2, h3, #archive .grid a .day, h4, h5, h6, #archive .grid a .month {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Segoe UI Light", Helvetica, "Segoe UI", Arial, sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -994,7 +1058,7 @@ h1, h2, h3, #archive .grid a .day, h4, h5, h6, #archive .grid a .month {
   margin-top: 0;
   margin-bottom: 0.1em;
   line-height: 1.2125em; }
-  h1 small, h1 #archive .grid a .year, #archive .grid a h1 .year, h2 small, h2 #archive .grid a .year, #archive .grid a h2 .year, h3 small, #archive .grid a .day small, h3 #archive .grid a .year, #archive .grid a h3 .year, #archive .grid a .day .year, h4 small, h4 #archive .grid a .year, #archive .grid a h4 .year, h5 small, h5 #archive .grid a .year, #archive .grid a h5 .year, h6 small, #archive .grid a .month small, h6 #archive .grid a .year, #archive .grid a h6 .year, #archive .grid a .month .year {
+  h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     font-size: 60%;
     color: #6f6f6f;
     line-height: 0; }
@@ -1005,7 +1069,7 @@ h1 {
 h2 {
   font-size: 1.6875em; }
 
-h3, #archive .grid a .day {
+h3 {
   font-size: 1.375em; }
 
 h4 {
@@ -1014,7 +1078,7 @@ h4 {
 h5 {
   font-size: 1.125em; }
 
-h6, #archive .grid a .month {
+h6 {
   font-size: 1em; }
 
 hr {
@@ -1035,7 +1099,7 @@ b {
   font-weight: bold;
   line-height: inherit; }
 
-small, #archive .grid a .year {
+small {
   font-size: 60%;
   line-height: inherit; }
 
@@ -1145,7 +1209,7 @@ blockquote p {
   padding: 0 0.0625em; }
 
 @media only screen and (min-width: 768px) {
-  h1, h2, h3, #archive .grid a .day, h4, h5, h6, #archive .grid a .month {
+  h1, h2, h3, h4, h5, h6 {
     line-height: 1.4; }
 
   h1 {
@@ -1154,7 +1218,7 @@ blockquote p {
   h2 {
     font-size: 2.3125em; }
 
-  h3, #archive .grid a .day {
+  h3 {
     font-size: 1.6875em; }
 
   h4 {
@@ -1212,14 +1276,12 @@ blockquote p {
 
   p,
   h2,
-  h3,
-  #archive .grid a .day {
+  h3 {
     orphans: 3;
     widows: 3; }
 
   h2,
-  h3,
-  #archive .grid a .day {
+  h3 {
     page-break-after: avoid; }
 
   .hide-on-print {
@@ -4131,7 +4193,7 @@ button, .button {
   color: #222222;
   background: white url(../img/white-bg.png);
   border-radius: 0; }
-  #intro h1, #intro h2, #intro h3, #intro #archive .grid a .day, #archive .grid a #intro .day, #intro h4, #intro h5, #intro h6, #intro #archive .grid a .month, #archive .grid a #intro .month, #intro .subheader, #intro p, #intro blockquote, #intro small, #intro #archive .grid a .year, #archive .grid a #intro .year {
+  #intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6, #intro .subheader, #intro p, #intro blockquote, #intro small {
     color: #222222; }
   #intro a {
     color: #00aeef; }
@@ -4165,7 +4227,7 @@ button, .button {
     -ms-animation: bounceInRight 1s 0s ease both;
     -o-animation: bounceInRight 1s 0s ease both;
     animation: bounceInRight 1s 0s ease both; }
-  #intro .logo h6, #intro .logo #archive .grid a .month, #archive .grid a #intro .logo .month {
+  #intro .logo h6 {
     -webkit-animation: flipInX 1s 0.5s ease both;
     -moz-animation: flipInX 1s 0.5s ease both;
     -ms-animation: flipInX 1s 0.5s ease both;
@@ -4188,200 +4250,49 @@ button, .button {
     -ms-animation: flipInX 1s 0.5s ease both;
     -o-animation: flipInX 1s 0.5s ease both;
     animation: flipInX 1s 0.5s ease both; }
-  #intro .countdown h4 {
-    color: #00aeef; }
-  #intro .countdown .date p {
-    -webkit-animation: fadeInDown 1s 1s ease both;
-    -moz-animation: fadeInDown 1s 1s ease both;
-    -ms-animation: fadeInDown 1s 1s ease both;
-    -o-animation: fadeInDown 1s 1s ease both;
-    animation: fadeInDown 1s 1s ease both; }
-  #intro .countdown .date h4 {
-    -webkit-animation: fadeInUp 1s 1s ease both;
-    -moz-animation: fadeInUp 1s 1s ease both;
-    -ms-animation: fadeInUp 1s 1s ease both;
-    -o-animation: fadeInUp 1s 1s ease both;
-    animation: fadeInUp 1s 1s ease both;
-    border-top: 1px dashed #222222; }
-  #intro .countdown .counter p {
-    -webkit-animation: fadeInUp 1s 1s ease both;
-    -moz-animation: fadeInUp 1s 1s ease both;
-    -ms-animation: fadeInUp 1s 1s ease both;
-    -o-animation: fadeInUp 1s 1s ease both;
-    animation: fadeInUp 1s 1s ease both; }
-  #intro .countdown .counter h4 {
-    -webkit-animation: fadeInDown 1s 1s ease both;
-    -moz-animation: fadeInDown 1s 1s ease both;
-    -ms-animation: fadeInDown 1s 1s ease both;
-    -o-animation: fadeInDown 1s 1s ease both;
-    animation: fadeInDown 1s 1s ease both;
-    border-bottom: 1px dashed #222222; }
-    #intro .countdown .counter h4#seconds {
-      overflow: hidden;
-      position: relative; }
-      #intro .countdown .counter h4#seconds span {
-        display: block;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        -webkit-transition: top 300ms ease-out;
-        -moz-transition: top 300ms ease-out;
-        transition: top 300ms ease-out; }
-      #intro .countdown .counter h4#seconds.tick #tick {
-        visibility: visible;
-        top: 0; }
-      #intro .countdown .counter h4#seconds.tick #tock {
-        top: -100%; }
-      #intro .countdown .counter h4#seconds.tick #tack {
-        visibility: hidden;
-        top: 100%; }
-      #intro .countdown .counter h4#seconds.tock #tock {
-        visibility: visible;
-        top: 0; }
-      #intro .countdown .counter h4#seconds.tock #tack {
-        top: -100%; }
-      #intro .countdown .counter h4#seconds.tock #tick {
-        visibility: hidden;
-        top: 100%; }
-      #intro .countdown .counter h4#seconds.tack #tack {
-        visibility: visible;
-        top: 0; }
-      #intro .countdown .counter h4#seconds.tack #tick {
-        top: -100%; }
-      #intro .countdown .counter h4#seconds.tack #tock {
-        visibility: hidden;
-        top: 100%; }
-  #intro .actions {
-    padding-top: 1em; }
-    #intro .actions .participate {
-      -webkit-animation: rotateInUpLeft 1s 1.5s ease both;
-      -moz-animation: rotateInUpLeft 1s 1.5s ease both;
-      -ms-animation: rotateInUpLeft 1s 1.5s ease both;
-      -o-animation: rotateInUpLeft 1s 1.5s ease both;
-      animation: rotateInUpLeft 1s 1.5s ease both; }
-    #intro .actions .talk {
-      -webkit-animation: rotateInUpRight 1s 1.5s ease both;
-      -moz-animation: rotateInUpRight 1s 1.5s ease both;
-      -ms-animation: rotateInUpRight 1s 1.5s ease both;
-      -o-animation: rotateInUpRight 1s 1.5s ease both;
-      animation: rotateInUpRight 1s 1.5s ease both; }
-    #intro .actions .participate-or-talk {
-      -webkit-animation: fadeInUp 1s 2s ease both;
-      -moz-animation: fadeInUp 1s 2s ease both;
-      -ms-animation: fadeInUp 1s 2s ease both;
-      -o-animation: fadeInUp 1s 2s ease both;
-      animation: fadeInUp 1s 2s ease both; }
-    #intro .actions a {
-      display: block; }
-      #intro .actions a:hover {
-        -webkit-animation: tada 1s 0s ease both;
-        -moz-animation: tada 1s 0s ease both;
-        -ms-animation: tada 1s 0s ease both;
-        -o-animation: tada 1s 0s ease both;
-        animation: tada 1s 0s ease both; }
-      #intro .actions a h4 {
-        -webkit-transition: background-color 300ms ease-out;
-        -moz-transition: background-color 300ms ease-out;
-        transition: background-color 300ms ease-out;
-        background-color: #00aeef;
-        border-color: #0089bc;
-        color: white;
-        -webkit-border-radius: 3px;
-        border-radius: 3px;
-        color: white;
-        padding: 0.25em;
-        margin-bottom: 0.25em; }
-        #intro .actions a h4:hover, #intro .actions a h4:focus {
-          background-color: #0089bc; }
-        #intro .actions a h4:hover, #intro .actions a h4:focus {
-          color: white; }
-      @media only screen and (max-width: 768px) {
-        #intro .actions a {
-          padding: 0.5em; } }
-    #intro .actions h6.delimiter, #intro .actions #archive .grid a .delimiter.month, #archive .grid a #intro .actions .delimiter.month {
-      color: #a2a2a2;
-      line-height: 2.5; }
-
-#agenda {
-  color: #222222;
-  background: #00aeef url(../img/white-bg.png); }
-  #agenda h1, #agenda h2, #agenda h3, #agenda #archive .grid a .day, #archive .grid a #agenda .day, #agenda h4, #agenda h5, #agenda h6, #agenda #archive .grid a .month, #archive .grid a #agenda .month, #agenda .subheader, #agenda p, #agenda blockquote, #agenda small, #agenda #archive .grid a .year, #archive .grid a #agenda .year {
-    color: #222222; }
-  #agenda a {
-    color: white; }
-    #agenda a:hover, #agenda a:active {
-      color: #b2e6fa; }
-  #agenda code, #agenda abbr, #agenda acronym {
-    color: black; }
-  #agenda .timings .row {
-    border-bottom: 1px dashed #89dfff;
-    margin-bottom: 0;
-    padding: 0.5em 0;
-    overflow: hidden;
-    -webkit-transition: background-color 300ms ease-out;
-    -moz-transition: background-color 300ms ease-out;
-    transition: background-color 300ms ease-out; }
-    #agenda .timings .row:last-child {
-      border-bottom: 0; }
-    #agenda .timings .row .time,
-    #agenda .timings .row .summary {
-      -webkit-transform-origin: 50% 50%;
-      -moz-transform-origin: 50% 50%;
-      -ms-transform-origin: 50% 50%;
-      -o-transform-origin: 50% 50%;
-      transform-origin: 50% 50%; }
-    #agenda .timings .row .summary {
-      position: relative; }
-      #agenda .timings .row .summary p {
-        margin-bottom: 0; }
-      #agenda .timings .row .summary small, #agenda .timings .row .summary #archive .grid a .year, #archive .grid a #agenda .timings .row .summary .year {
-        line-height: 1rem;
-        display: inline-block; }
-      #agenda .timings .row .summary img {
-        display: block;
-        margin: 0.5em auto;
-        max-width: 3em;
-        border-radius: 50%; }
-      #agenda .timings .row .summary a {
-        white-space: nowrap; }
-    @media only screen and (min-width: 768px) {
-      #agenda .timings .row p {
-        margin-bottom: 0; }
-      #agenda .timings .row .time {
-        -webkit-transform-origin: 100% 50%;
-        -moz-transform-origin: 100% 50%;
-        -ms-transform-origin: 100% 50%;
-        -o-transform-origin: 100% 50%;
-        transform-origin: 100% 50%;
-        text-align: right; }
-        #agenda .timings .row .time p:after {
-          display: block;
-          content: "\00A7";
-          position: absolute;
-          top: 0;
-          right: -0.25em; }
-      #agenda .timings .row .summary {
-        -webkit-transform-origin: 0% 50%;
-        -moz-transform-origin: 0% 50%;
-        -ms-transform-origin: 0% 50%;
-        -o-transform-origin: 0% 50%;
-        transform-origin: 0% 50%;
-        text-align: left; }
-        #agenda .timings .row .summary p {
-          padding-right: 3.15em; }
-        #agenda .timings .row .summary img {
-          position: absolute;
-          right: 1em;
-          top: 50%;
-          margin-top: -1.5em; } }
-    #agenda .timings .row:hover {
-      background-color: #23c3ff; }
+  #intro .social a {
+    font-size: 1.5em;
+    display: inline-block;
+    color: white;
+    background-color: #222222;
+    border-radius: 50%;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.5em;
+    margin: 0 0.1em;
+    position: relative;
+    -webkit-transition: color 0.3s, background-color 0.3s;
+    -moz-transition: color 0.3s, background-color 0.3s;
+    -ms-transition: color 0.3s, background-color 0.3s;
+    -o-transition: color 0.3s, background-color 0.3s;
+    transition: color 0.3s, background-color 0.3s; }
+    #intro .social a i {
+      display: inline-block; }
+    #intro .social a:before {
+      display: block;
+      position: absolute;
+      content: "";
+      width: 2px;
+      margin-left: -1px;
+      height: 2.5em;
+      background-color: #222222;
+      top: -2.5em;
+      left: 50%; }
+    #intro .social a:hover, #intro .social a:focus {
+      color: #222222;
+      background-color: #00aeef; }
+      #intro .social a:hover i, #intro .social a:focus i {
+        -webkit-animation: flip 1s 0s ease both;
+        -moz-animation: flip 1s 0s ease both;
+        -ms-animation: flip 1s 0s ease both;
+        -o-animation: flip 1s 0s ease both;
+        animation: flip 1s 0s ease both; }
 
 #location {
   color: white;
   background: #222222 url(../img/white-bg.png);
   background-image: url(../img/dark-bg.jpg); }
-  #location h1, #location h2, #location h3, #location #archive .grid a .day, #archive .grid a #location .day, #location h4, #location h5, #location h6, #location #archive .grid a .month, #archive .grid a #location .month, #location .subheader, #location p, #location blockquote, #location small, #location #archive .grid a .year, #archive .grid a #location .year {
+  #location h1, #location h2, #location h3, #location h4, #location h5, #location h6, #location .subheader, #location p, #location blockquote, #location small {
     color: white; }
   #location a {
     color: white; }
@@ -4398,15 +4309,64 @@ button, .button {
     color: #00aeef; }
   @media only screen and (min-width: 768px) {
     #location .address p {
-      text-align: right; }
+      text-align: left; }
     #location img {
       border-radius: 0 0.5em 0.5em 0; } }
+
+#past {
+  color: white;
+  background: #222222 url(../img/white-bg.png);
+  background-image: url(../img/dark-bg.jpg); }
+  #past h1, #past h2, #past h3, #past h4, #past h5, #past h6, #past .subheader, #past p, #past blockquote, #past small {
+    color: white; }
+  #past a {
+    color: white; }
+    #past a:hover, #past a:active {
+      color: #bcbcbc; }
+  #past code, #past abbr, #past acronym {
+    color: #d9d9d9; }
+  #past .row {
+    overflow: hidden; }
+  #past .address span {
+    display: block;
+    padding-bottom: 0.5em; }
+  #past .address a {
+    color: #00aeef; }
+  @media only screen and (min-width: 768px) {
+    #past .address p {
+      text-align: right; }
+    #past img {
+      border-radius: 0.5em 0.5em 0.5em 0.5em; } }
+
+#present {
+  color: #222222;
+  background: white url(../img/white-bg.png);
+  border-radius: 0;
+  background-image: url(../img/white-bg.png); }
+  #present h1, #present h2, #present h3, #present h4, #present h5, #present h6, #present .subheader, #present p, #present blockquote, #present small {
+    color: #222222; }
+  #present a {
+    color: #00aeef; }
+    #present a:hover, #present a:active {
+      color: #4cc6f3; }
+  #present code, #present abbr, #present acronym {
+    color: black; }
+  #present .row {
+    overflow: hidden; }
+  #present .address span {
+    display: block;
+    padding-bottom: 0.5em; }
+  #present .address a {
+    color: #00aeef; }
+  @media only screen and (min-width: 768px) {
+    #present img {
+      border-radius: 0.5em 0.5em 0.5em 0.5em; } }
 
 #about {
   color: white;
   background: #222222 url(../img/white-bg.png);
   background-image: url(../img/dark-bg.jpg); }
-  #about h1, #about h2, #about h3, #about #archive .grid a .day, #archive .grid a #about .day, #about h4, #about h5, #about h6, #about #archive .grid a .month, #archive .grid a #about .month, #about .subheader, #about p, #about blockquote, #about small, #about #archive .grid a .year, #archive .grid a #about .year {
+  #about h1, #about h2, #about h3, #about h4, #about h5, #about h6, #about .subheader, #about p, #about blockquote, #about small {
     color: white; }
   #about a {
     color: #00aeef; }
@@ -4459,69 +4419,11 @@ button, .button {
       text-align: left;
       font-size: 1em;
       margin-bottom: 1em; }
-    #about blockquote small, #about blockquote #archive .grid a .year, #archive .grid a #about blockquote .year {
+    #about blockquote small {
       font-size: 0.8125em; }
     #about blockquote cite {
       margin: 0.25em 0;
       text-align: right; }
-
-#archive {
-  color: #222222;
-  background: white url(../img/white-bg.png); }
-  #archive h1, #archive h2, #archive h3, #archive .grid a .day, #archive h4, #archive h5, #archive h6, #archive .grid a .month, #archive .subheader, #archive p, #archive blockquote, #archive small, #archive .grid a .year {
-    color: #222222; }
-  #archive a {
-    color: #00aeef; }
-    #archive a:hover, #archive a:active {
-      color: #4cc6f3; }
-  #archive code, #archive abbr, #archive acronym {
-    color: black; }
-  #archive .grid {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    *zoom: 1; }
-    #archive .grid:before, #archive .grid:after {
-      content: " ";
-      display: table; }
-    #archive .grid:after {
-      clear: both; }
-    #archive .grid li {
-      display: inline-block;
-      width: 5em; }
-  #archive .grid a {
-    display: block;
-    overflow: hidden;
-    padding: 0.25em;
-    background-color: #b3b3b3;
-    border-radius: 0.5em;
-    -webkit-transition: background-color 0.3s;
-    -moz-transition: background-color 0.3s;
-    -ms-transition: background-color 0.3s;
-    -o-transition: background-color 0.3s;
-    transition: background-color 0.3s; }
-    #archive .grid a:hover, #archive .grid a.active {
-      background-color: #00aeef; }
-    #archive .grid a .month {
-      color: white;
-      line-height: 1.5em;
-      margin: 0; }
-      #archive .grid a .month:before, #archive .grid a .month:after {
-        content: "\2022";
-        display: inline-block; }
-      #archive .grid a .month:before {
-        float: left; }
-      #archive .grid a .month:after {
-        float: right; }
-    #archive .grid a .day {
-      background-color: white;
-      margin: 0;
-      line-height: 1.25em; }
-    #archive .grid a .year {
-      background-color: white;
-      border-top: 1px dashed #b3b3b3;
-      line-height: 2em;
-      border-radius: 0 0 0.25em 0.25em; }
 
 #footer {
   color: #a6a6a6;
@@ -4529,7 +4431,7 @@ button, .button {
   border-radius: 0;
   margin-top: 0;
   padding: 0.5em 0; }
-  #footer h1, #footer h2, #footer h3, #footer #archive .grid a .day, #archive .grid a #footer .day, #footer h4, #footer h5, #footer h6, #footer #archive .grid a .month, #archive .grid a #footer .month, #footer .subheader, #footer p, #footer blockquote, #footer small, #footer #archive .grid a .year, #archive .grid a #footer .year {
+  #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer .subheader, #footer p, #footer blockquote, #footer small {
     color: #a6a6a6; }
   #footer a {
     color: #3dcaff; }
@@ -6741,5 +6643,5 @@ section {
     width: 100%;
     height: 100%;
     padding: 1rem; }
-;F;
-@»;{ I"/fonts/fontello.eot/;T{;{ ;{ I"/fonts/fontello.ttf/;T{;{ ;{ I"/fonts/fontello.woff/;T{;{ ;{ I"/humans.txt/;T{;{ ;{ I"/img/dark-bg.jpg/;T{;{ ;{ I"/img/map.png/;T{;{ ;{ I"'/img/speaker/kashi_and_vikram.jpg/;T{;{ ;{ I"*/img/speaker/sreedhar_and_garima.jpg/;T{;{ ;{ I"/img/tw-logo.png/;T{;{ ;{ I"/img/white-bg.png/;T{;{ ;{ I"/js/custom.modernizr.js/;T{;{ ;{ I"/js/skrollr.min.js/;T{;{ ;{ I"/js/ticker.js/;T{;{ ;{ I"/LICENSE.md/;T{;{ ;{ I"/README.md/;T{;{ ;{ I"/robots.txt/;T{;{ ;{ I"/img/logo.png/;T{;{ ;{ I"/img/dark-bg_old.jpg/;T{;{ ;{ :versioni
+;T;
+@»;{ I"/fonts/fontello.eot/;T{;{ ;{ I"/fonts/fontello.ttf/;T{;{ ;{ I"/fonts/fontello.woff/;T{;{ ;{ I"/humans.txt/;T{;{ ;{ I"/img/dark-bg.jpg/;T{;{ ;{ I"/img/map.png/;T{;{ ;{ I"'/img/speaker/kashi_and_vikram.jpg/;T{;{ ;{ I"*/img/speaker/sreedhar_and_garima.jpg/;T{;{ ;{ I"/img/tw-logo.png/;T{;{ ;{ I"/img/white-bg.png/;T{;{ ;{ I"/js/custom.modernizr.js/;T{;{ ;{ I"/js/skrollr.min.js/;T{;{ ;{ I"/js/ticker.js/;T{;{ ;{ I"/LICENSE.md/;T{;{ ;{ I"/README.md/;T{;{ ;{ I"/robots.txt/;T{;{ ;{ I"/img/logo.png/;T{;{ ;{ I"/img/dark-bg_old.jpg/;T{;{ ;{ I"/img/IMG_0041.JPG/;T{;{ ;{ I"/img/IMG_2451.jpg/;T{;{ ;{ I"/img/IMG_5135.JPG/;T{;{ ;{ I"/img/IMG_5138.JPG/;T{;{ ;{ I"/img/IMG_5283.JPG/;T{;{ ;{ I"/img/past/IMG_0041.JPG/;T{;{ ;{ I"/img/past/IMG_2451.jpg/;T{;{ ;{ I"/img/past/IMG_5135.JPG/;T{;{ ;{ I"/img/past/IMG_5138.JPG/;T{;{ ;{ I"/img/past/IMG_5283.JPG/;T{;{ ;{ I"/img/present/IMG_0041.JPG/;T{;{ ;{ I"/img/present/IMG_2451.jpg/;T{;{ ;{ I"/img/present/IMG_5135.JPG/;T{;{ ;{ I"/img/present/IMG_5138.JPG/;T{;{ ;{ I"/img/present/IMG_5283.JPG/;T{;{ ;{ I"&/img/past/ADA CAD CAM CENTRE.jpg/;T{;{ ;{ I"//img/past/AJAX FIORI CORPORATE OFFICE.jpg/;T{;{ ;{ I"5/img/past/AJAX FIORI EXPOSED CONCRETE WORK .jpg/;T{;{ ;{ I"%/img/past/ANNEXE TO ISRO HQ.jpg/;T{;{ ;{ I"6/img/past/ANTRIX CORPORATION BUILNG FOR ISRO.JPG/;T{;{ ;{ I"'/img/past/BANGALORE GOLF CLUB.jpg/;T{;{ ;{ I"0/img/past/COCHIN INTERNATIONAL AIRPORT.jpg/;T{;{ ;{ I"%/img/past/COLLEGE FOR STEM .JPG/;T{;{ ;{ I"5/img/past/CONCRETE ROAD AT MANDUR  FOR BBMP.JPG/;T{;{ ;{ I"9/img/past/ENGINE TEST BEDS AT MITSUBISHI MYSORE.jpg/;T{;{ ;{ I"5/img/past/MANUFACTURING UNIT FOR AJAX FIORI.jpg/;T{;{ ;{ I"4/img/past/MITSUBISHI DIESEL ENGINES INSIDE.JPG/;T{;{ ;{ I"6/img/past/MITSUBISHI DIESEL ENGNES AT MYSORE.JPG/;T{;{ ;{ I"0/img/past/MULTI UTILITY CENTRE FOR ADA.jpg/;T{;{ ;{ I"C/img/past/ORNAMENTAL COMPOUND WALL AT BANNIMANTAP  MYSORE.JPG/;T{;{ ;{ I"./img/past/RAJATHA BHAVAN FOR BWSSB  .jpg/;T{;{ ;{ I"*/img/past/RESIDENTIAL APPARTMENT.JPG/;T{;{ ;{ I"1/img/past/RESIDENTIAL SCHOOL AT WAYANAD.JPG/;T{;{ ;{ I"5/img/past/RIVER INTAKE JACK WELL AT COCHIN .jpg/;T{;{ ;{ I"./img/past/Road at Mitsubishi Factory.jpg/;T{;{ ;{ I"&/img/past/ROAD WORK AT KOLAR.jpg/;T{;{ ;{ I"4/img/past/SERVICE CENTRE FOR INDIA GARAGE.jpeg/;T{;{ ;{ I"+/img/past/SEZ BHAVAN AT BANGALORE.JPG/;T{;{ ;{ I":/img/past/SWIMMING POOL COMPLES AT KC PALCE CLUB.jpg/;T{;{ ;{ I"@/img/past/WATER TANK  & W:S SYSTEM AT PILANI RAJASTHAN.JPG/;T{;{ ;{ I"K/img/past/WATER TANK &W:S SYSTEM  AT COCHIN INTERNATIONAL AIRPORT.jpg/;T{;{ ;{ I"=/img/past/WATER TANK AND W:S LINES AT KINFRA KANNUR.JPG/;T{;{ ;{ I"4/img/past/WATER TREATMENT PLANT AT PILANI .JPG/;T{;{ ;{ I"0/img/present/APPARTMENT AT BOMMASANDRA.jpg/;T{;{ ;{ I"O/img/present/CIVIL WORKS AT CENTRE FOR NEUROSCIENCE AT IISC BANGALORE.jpg/;T{;{ ;{ I"7/img/present/HANGING STRUCTURE AT SANJAYNAGAR.jpg/;T{;{ ;{ I"7/img/present/HYDRAULICS LAB AT IISC BANGALORE.jpg/;T{;{ ;{ I"%/img/present/INDOOR STADIUM.jpg/;T{;{ ;{ I"4/img/past/AJAX FIORI EXPOSED CONCRETE WORK.jpg/;T{;{ ;{ I"$/img/past/COLLEGE FOR STEM.JPG/;T{;{ ;{ I"/img/logononame.png/;T{;{ ;{ I"6/img/past/ANTRIX CORPORATION BUILNG FOR ISRO.jpg/;T{;{ ;{ I"$/img/past/COLLEGE FOR STEM.jpg/;T{;{ ;{ I"5/img/past/CONCRETE ROAD AT MANDUR  FOR BBMP.jpg/;T{;{ ;{ I"4/img/past/MITSUBISHI DIESEL ENGINES INSIDE.jpg/;T{;{ ;{ I"6/img/past/MITSUBISHI DIESEL ENGNES AT MYSORE.jpg/;T{;{ ;{ I"C/img/past/ORNAMENTAL COMPOUND WALL AT BANNIMANTAP  MYSORE.jpg/;T{;{ ;{ I",/img/past/RAJATHA BHAVAN FOR BWSSB.jpg/;T{;{ ;{ I"*/img/past/RESIDENTIAL APPARTMENT.jpg/;T{;{ ;{ I"1/img/past/RESIDENTIAL SCHOOL AT WAYANAD.jpg/;T{;{ ;{ I"4/img/past/RIVER INTAKE JACK WELL AT COCHIN.jpg/;T{;{ ;{ I"+/img/past/SEZ BHAVAN AT BANGALORE.jpg/;T{;{ ;{ I"@/img/past/WATER TANK  & W:S SYSTEM AT PILANI RAJASTHAN.jpg/;T{;{ ;{ I"=/img/past/WATER TANK AND W:S LINES AT KINFRA KANNUR.jpg/;T{;{ ;{ I"3/img/past/WATER TREATMENT PLANT AT PILANI.jpg/;T{;{ ;{ I"G/img/past/WATER TANK  SYSTEM  AT COCHIN INTERNATIONAL AIRPORT.jpg/;T{;{ ;{ I"9/img/past/WATER TANK AND LINES AT KINFRA KANNUR.jpg/;T{;{ ;{ I"9/img/past/WATER TANK SYSTEM AT PILANI RAJASTHAN.jpg/;T{;{ ;{ I"8/img/past/ANTRIX CORPORATION BUILDING FOR ISRO.jpg/;T{;{ ;{ I"-/img/past/College for Stem - Jigani.jpg/;T{;{ ;{ I"4/img/past/CONCRETE ROAD AT MANDUR FOR BBMP.jpg/;T{;{ ;{ I";/img/past/MITSUBISHI DIESEL ENGINES INSIDE MYSORE.jpg/;T{;{ ;{ I"4/img/past/MITSUBISHI DIESEL ENGINES Mysore.jpg/;T{;{ ;{ I"?/img/past/ORNAMENTAL COMPOUND WALL BANNIMANTAP MYSORE.jpg/;T{;{ ;{ I"?/img/past/RESIDENTIAL APPARTMENT Hosur Road Bangalore.jpg/;T{;{ ;{ I"8/img/past/RESIDENTIAL SCHOOL AT WAYANAD KERALA.jpg/;T{;{ ;{ I"6/img/past/SEZ BHAVAN AT Whitefield BANGALORE.jpg/;T{;{ ;{ I"3/img/past/POOL AT KC PALCE CLUB Bangalore.jpg/;T{;{ ;{ :versioni

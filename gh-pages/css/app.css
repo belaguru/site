@@ -160,7 +160,7 @@ q {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-small, #archive .grid a .year {
+small {
   font-size: 80%; }
 
 /**
@@ -457,11 +457,9 @@ li,
 h1,
 h2,
 h3,
-#archive .grid a .day,
 h4,
 h5,
 h6,
-#archive .grid a .month,
 pre,
 form,
 p,
@@ -496,7 +494,7 @@ p {
     font-style: italic; }
 
 /* Default header styles */
-h1, h2, h3, #archive .grid a .day, h4, h5, h6, #archive .grid a .month {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Segoe UI Light", Helvetica, "Segoe UI", Arial, sans-serif;
   font-weight: 300;
   font-style: normal;
@@ -505,7 +503,7 @@ h1, h2, h3, #archive .grid a .day, h4, h5, h6, #archive .grid a .month {
   margin-top: 0;
   margin-bottom: 0.1em;
   line-height: 1.2125em; }
-  h1 small, h1 #archive .grid a .year, #archive .grid a h1 .year, h2 small, h2 #archive .grid a .year, #archive .grid a h2 .year, h3 small, #archive .grid a .day small, h3 #archive .grid a .year, #archive .grid a h3 .year, #archive .grid a .day .year, h4 small, h4 #archive .grid a .year, #archive .grid a h4 .year, h5 small, h5 #archive .grid a .year, #archive .grid a h5 .year, h6 small, #archive .grid a .month small, h6 #archive .grid a .year, #archive .grid a h6 .year, #archive .grid a .month .year {
+  h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     font-size: 60%;
     color: #6f6f6f;
     line-height: 0; }
@@ -516,7 +514,7 @@ h1 {
 h2 {
   font-size: 1.6875em; }
 
-h3, #archive .grid a .day {
+h3 {
   font-size: 1.375em; }
 
 h4 {
@@ -525,7 +523,7 @@ h4 {
 h5 {
   font-size: 1.125em; }
 
-h6, #archive .grid a .month {
+h6 {
   font-size: 1em; }
 
 hr {
@@ -546,7 +544,7 @@ b {
   font-weight: bold;
   line-height: inherit; }
 
-small, #archive .grid a .year {
+small {
   font-size: 60%;
   line-height: inherit; }
 
@@ -656,7 +654,7 @@ blockquote p {
   padding: 0 0.0625em; }
 
 @media only screen and (min-width: 768px) {
-  h1, h2, h3, #archive .grid a .day, h4, h5, h6, #archive .grid a .month {
+  h1, h2, h3, h4, h5, h6 {
     line-height: 1.4; }
 
   h1 {
@@ -665,7 +663,7 @@ blockquote p {
   h2 {
     font-size: 2.3125em; }
 
-  h3, #archive .grid a .day {
+  h3 {
     font-size: 1.6875em; }
 
   h4 {
@@ -723,14 +721,12 @@ blockquote p {
 
   p,
   h2,
-  h3,
-  #archive .grid a .day {
+  h3 {
     orphans: 3;
     widows: 3; }
 
   h2,
-  h3,
-  #archive .grid a .day {
+  h3 {
     page-break-after: avoid; }
 
   .hide-on-print {
@@ -3642,7 +3638,7 @@ button, .button {
   color: #222222;
   background: white url(../img/white-bg.png);
   border-radius: 0; }
-  #intro h1, #intro h2, #intro h3, #intro #archive .grid a .day, #archive .grid a #intro .day, #intro h4, #intro h5, #intro h6, #intro #archive .grid a .month, #archive .grid a #intro .month, #intro .subheader, #intro p, #intro blockquote, #intro small, #intro #archive .grid a .year, #archive .grid a #intro .year {
+  #intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6, #intro .subheader, #intro p, #intro blockquote, #intro small {
     color: #222222; }
   #intro a {
     color: #00aeef; }
@@ -3676,7 +3672,7 @@ button, .button {
     -ms-animation: bounceInRight 1s 0s ease both;
     -o-animation: bounceInRight 1s 0s ease both;
     animation: bounceInRight 1s 0s ease both; }
-  #intro .logo h6, #intro .logo #archive .grid a .month, #archive .grid a #intro .logo .month {
+  #intro .logo h6 {
     -webkit-animation: flipInX 1s 0.5s ease both;
     -moz-animation: flipInX 1s 0.5s ease both;
     -ms-animation: flipInX 1s 0.5s ease both;
@@ -3699,200 +3695,49 @@ button, .button {
     -ms-animation: flipInX 1s 0.5s ease both;
     -o-animation: flipInX 1s 0.5s ease both;
     animation: flipInX 1s 0.5s ease both; }
-  #intro .countdown h4 {
-    color: #00aeef; }
-  #intro .countdown .date p {
-    -webkit-animation: fadeInDown 1s 1s ease both;
-    -moz-animation: fadeInDown 1s 1s ease both;
-    -ms-animation: fadeInDown 1s 1s ease both;
-    -o-animation: fadeInDown 1s 1s ease both;
-    animation: fadeInDown 1s 1s ease both; }
-  #intro .countdown .date h4 {
-    -webkit-animation: fadeInUp 1s 1s ease both;
-    -moz-animation: fadeInUp 1s 1s ease both;
-    -ms-animation: fadeInUp 1s 1s ease both;
-    -o-animation: fadeInUp 1s 1s ease both;
-    animation: fadeInUp 1s 1s ease both;
-    border-top: 1px dashed #222222; }
-  #intro .countdown .counter p {
-    -webkit-animation: fadeInUp 1s 1s ease both;
-    -moz-animation: fadeInUp 1s 1s ease both;
-    -ms-animation: fadeInUp 1s 1s ease both;
-    -o-animation: fadeInUp 1s 1s ease both;
-    animation: fadeInUp 1s 1s ease both; }
-  #intro .countdown .counter h4 {
-    -webkit-animation: fadeInDown 1s 1s ease both;
-    -moz-animation: fadeInDown 1s 1s ease both;
-    -ms-animation: fadeInDown 1s 1s ease both;
-    -o-animation: fadeInDown 1s 1s ease both;
-    animation: fadeInDown 1s 1s ease both;
-    border-bottom: 1px dashed #222222; }
-    #intro .countdown .counter h4#seconds {
-      overflow: hidden;
-      position: relative; }
-      #intro .countdown .counter h4#seconds span {
-        display: block;
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        -webkit-transition: top 300ms ease-out;
-        -moz-transition: top 300ms ease-out;
-        transition: top 300ms ease-out; }
-      #intro .countdown .counter h4#seconds.tick #tick {
-        visibility: visible;
-        top: 0; }
-      #intro .countdown .counter h4#seconds.tick #tock {
-        top: -100%; }
-      #intro .countdown .counter h4#seconds.tick #tack {
-        visibility: hidden;
-        top: 100%; }
-      #intro .countdown .counter h4#seconds.tock #tock {
-        visibility: visible;
-        top: 0; }
-      #intro .countdown .counter h4#seconds.tock #tack {
-        top: -100%; }
-      #intro .countdown .counter h4#seconds.tock #tick {
-        visibility: hidden;
-        top: 100%; }
-      #intro .countdown .counter h4#seconds.tack #tack {
-        visibility: visible;
-        top: 0; }
-      #intro .countdown .counter h4#seconds.tack #tick {
-        top: -100%; }
-      #intro .countdown .counter h4#seconds.tack #tock {
-        visibility: hidden;
-        top: 100%; }
-  #intro .actions {
-    padding-top: 1em; }
-    #intro .actions .participate {
-      -webkit-animation: rotateInUpLeft 1s 1.5s ease both;
-      -moz-animation: rotateInUpLeft 1s 1.5s ease both;
-      -ms-animation: rotateInUpLeft 1s 1.5s ease both;
-      -o-animation: rotateInUpLeft 1s 1.5s ease both;
-      animation: rotateInUpLeft 1s 1.5s ease both; }
-    #intro .actions .talk {
-      -webkit-animation: rotateInUpRight 1s 1.5s ease both;
-      -moz-animation: rotateInUpRight 1s 1.5s ease both;
-      -ms-animation: rotateInUpRight 1s 1.5s ease both;
-      -o-animation: rotateInUpRight 1s 1.5s ease both;
-      animation: rotateInUpRight 1s 1.5s ease both; }
-    #intro .actions .participate-or-talk {
-      -webkit-animation: fadeInUp 1s 2s ease both;
-      -moz-animation: fadeInUp 1s 2s ease both;
-      -ms-animation: fadeInUp 1s 2s ease both;
-      -o-animation: fadeInUp 1s 2s ease both;
-      animation: fadeInUp 1s 2s ease both; }
-    #intro .actions a {
-      display: block; }
-      #intro .actions a:hover {
-        -webkit-animation: tada 1s 0s ease both;
-        -moz-animation: tada 1s 0s ease both;
-        -ms-animation: tada 1s 0s ease both;
-        -o-animation: tada 1s 0s ease both;
-        animation: tada 1s 0s ease both; }
-      #intro .actions a h4 {
-        -webkit-transition: background-color 300ms ease-out;
-        -moz-transition: background-color 300ms ease-out;
-        transition: background-color 300ms ease-out;
-        background-color: #00aeef;
-        border-color: #0089bc;
-        color: white;
-        -webkit-border-radius: 3px;
-        border-radius: 3px;
-        color: white;
-        padding: 0.25em;
-        margin-bottom: 0.25em; }
-        #intro .actions a h4:hover, #intro .actions a h4:focus {
-          background-color: #0089bc; }
-        #intro .actions a h4:hover, #intro .actions a h4:focus {
-          color: white; }
-      @media only screen and (max-width: 768px) {
-        #intro .actions a {
-          padding: 0.5em; } }
-    #intro .actions h6.delimiter, #intro .actions #archive .grid a .delimiter.month, #archive .grid a #intro .actions .delimiter.month {
-      color: #a2a2a2;
-      line-height: 2.5; }
-
-#agenda {
-  color: #222222;
-  background: #00aeef url(../img/white-bg.png); }
-  #agenda h1, #agenda h2, #agenda h3, #agenda #archive .grid a .day, #archive .grid a #agenda .day, #agenda h4, #agenda h5, #agenda h6, #agenda #archive .grid a .month, #archive .grid a #agenda .month, #agenda .subheader, #agenda p, #agenda blockquote, #agenda small, #agenda #archive .grid a .year, #archive .grid a #agenda .year {
-    color: #222222; }
-  #agenda a {
-    color: white; }
-    #agenda a:hover, #agenda a:active {
-      color: #b2e6fa; }
-  #agenda code, #agenda abbr, #agenda acronym {
-    color: black; }
-  #agenda .timings .row {
-    border-bottom: 1px dashed #89dfff;
-    margin-bottom: 0;
-    padding: 0.5em 0;
-    overflow: hidden;
-    -webkit-transition: background-color 300ms ease-out;
-    -moz-transition: background-color 300ms ease-out;
-    transition: background-color 300ms ease-out; }
-    #agenda .timings .row:last-child {
-      border-bottom: 0; }
-    #agenda .timings .row .time,
-    #agenda .timings .row .summary {
-      -webkit-transform-origin: 50% 50%;
-      -moz-transform-origin: 50% 50%;
-      -ms-transform-origin: 50% 50%;
-      -o-transform-origin: 50% 50%;
-      transform-origin: 50% 50%; }
-    #agenda .timings .row .summary {
-      position: relative; }
-      #agenda .timings .row .summary p {
-        margin-bottom: 0; }
-      #agenda .timings .row .summary small, #agenda .timings .row .summary #archive .grid a .year, #archive .grid a #agenda .timings .row .summary .year {
-        line-height: 1rem;
-        display: inline-block; }
-      #agenda .timings .row .summary img {
-        display: block;
-        margin: 0.5em auto;
-        max-width: 3em;
-        border-radius: 50%; }
-      #agenda .timings .row .summary a {
-        white-space: nowrap; }
-    @media only screen and (min-width: 768px) {
-      #agenda .timings .row p {
-        margin-bottom: 0; }
-      #agenda .timings .row .time {
-        -webkit-transform-origin: 100% 50%;
-        -moz-transform-origin: 100% 50%;
-        -ms-transform-origin: 100% 50%;
-        -o-transform-origin: 100% 50%;
-        transform-origin: 100% 50%;
-        text-align: right; }
-        #agenda .timings .row .time p:after {
-          display: block;
-          content: "\00A7";
-          position: absolute;
-          top: 0;
-          right: -0.25em; }
-      #agenda .timings .row .summary {
-        -webkit-transform-origin: 0% 50%;
-        -moz-transform-origin: 0% 50%;
-        -ms-transform-origin: 0% 50%;
-        -o-transform-origin: 0% 50%;
-        transform-origin: 0% 50%;
-        text-align: left; }
-        #agenda .timings .row .summary p {
-          padding-right: 3.15em; }
-        #agenda .timings .row .summary img {
-          position: absolute;
-          right: 1em;
-          top: 50%;
-          margin-top: -1.5em; } }
-    #agenda .timings .row:hover {
-      background-color: #23c3ff; }
+  #intro .social a {
+    font-size: 1.5em;
+    display: inline-block;
+    color: white;
+    background-color: #222222;
+    border-radius: 50%;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.5em;
+    margin: 0 0.1em;
+    position: relative;
+    -webkit-transition: color 0.3s, background-color 0.3s;
+    -moz-transition: color 0.3s, background-color 0.3s;
+    -ms-transition: color 0.3s, background-color 0.3s;
+    -o-transition: color 0.3s, background-color 0.3s;
+    transition: color 0.3s, background-color 0.3s; }
+    #intro .social a i {
+      display: inline-block; }
+    #intro .social a:before {
+      display: block;
+      position: absolute;
+      content: "";
+      width: 2px;
+      margin-left: -1px;
+      height: 2.5em;
+      background-color: #222222;
+      top: -2.5em;
+      left: 50%; }
+    #intro .social a:hover, #intro .social a:focus {
+      color: #222222;
+      background-color: #00aeef; }
+      #intro .social a:hover i, #intro .social a:focus i {
+        -webkit-animation: flip 1s 0s ease both;
+        -moz-animation: flip 1s 0s ease both;
+        -ms-animation: flip 1s 0s ease both;
+        -o-animation: flip 1s 0s ease both;
+        animation: flip 1s 0s ease both; }
 
 #location {
   color: white;
   background: #222222 url(../img/white-bg.png);
   background-image: url(../img/dark-bg.jpg); }
-  #location h1, #location h2, #location h3, #location #archive .grid a .day, #archive .grid a #location .day, #location h4, #location h5, #location h6, #location #archive .grid a .month, #archive .grid a #location .month, #location .subheader, #location p, #location blockquote, #location small, #location #archive .grid a .year, #archive .grid a #location .year {
+  #location h1, #location h2, #location h3, #location h4, #location h5, #location h6, #location .subheader, #location p, #location blockquote, #location small {
     color: white; }
   #location a {
     color: white; }
@@ -3909,15 +3754,64 @@ button, .button {
     color: #00aeef; }
   @media only screen and (min-width: 768px) {
     #location .address p {
-      text-align: right; }
+      text-align: left; }
     #location img {
       border-radius: 0 0.5em 0.5em 0; } }
+
+#past {
+  color: white;
+  background: #222222 url(../img/white-bg.png);
+  background-image: url(../img/dark-bg.jpg); }
+  #past h1, #past h2, #past h3, #past h4, #past h5, #past h6, #past .subheader, #past p, #past blockquote, #past small {
+    color: white; }
+  #past a {
+    color: white; }
+    #past a:hover, #past a:active {
+      color: #bcbcbc; }
+  #past code, #past abbr, #past acronym {
+    color: #d9d9d9; }
+  #past .row {
+    overflow: hidden; }
+  #past .address span {
+    display: block;
+    padding-bottom: 0.5em; }
+  #past .address a {
+    color: #00aeef; }
+  @media only screen and (min-width: 768px) {
+    #past .address p {
+      text-align: right; }
+    #past img {
+      border-radius: 0.5em 0.5em 0.5em 0.5em; } }
+
+#present {
+  color: #222222;
+  background: white url(../img/white-bg.png);
+  border-radius: 0;
+  background-image: url(../img/white-bg.png); }
+  #present h1, #present h2, #present h3, #present h4, #present h5, #present h6, #present .subheader, #present p, #present blockquote, #present small {
+    color: #222222; }
+  #present a {
+    color: #00aeef; }
+    #present a:hover, #present a:active {
+      color: #4cc6f3; }
+  #present code, #present abbr, #present acronym {
+    color: black; }
+  #present .row {
+    overflow: hidden; }
+  #present .address span {
+    display: block;
+    padding-bottom: 0.5em; }
+  #present .address a {
+    color: #00aeef; }
+  @media only screen and (min-width: 768px) {
+    #present img {
+      border-radius: 0.5em 0.5em 0.5em 0.5em; } }
 
 #about {
   color: white;
   background: #222222 url(../img/white-bg.png);
   background-image: url(../img/dark-bg.jpg); }
-  #about h1, #about h2, #about h3, #about #archive .grid a .day, #archive .grid a #about .day, #about h4, #about h5, #about h6, #about #archive .grid a .month, #archive .grid a #about .month, #about .subheader, #about p, #about blockquote, #about small, #about #archive .grid a .year, #archive .grid a #about .year {
+  #about h1, #about h2, #about h3, #about h4, #about h5, #about h6, #about .subheader, #about p, #about blockquote, #about small {
     color: white; }
   #about a {
     color: #00aeef; }
@@ -3970,69 +3864,11 @@ button, .button {
       text-align: left;
       font-size: 1em;
       margin-bottom: 1em; }
-    #about blockquote small, #about blockquote #archive .grid a .year, #archive .grid a #about blockquote .year {
+    #about blockquote small {
       font-size: 0.8125em; }
     #about blockquote cite {
       margin: 0.25em 0;
       text-align: right; }
-
-#archive {
-  color: #222222;
-  background: white url(../img/white-bg.png); }
-  #archive h1, #archive h2, #archive h3, #archive .grid a .day, #archive h4, #archive h5, #archive h6, #archive .grid a .month, #archive .subheader, #archive p, #archive blockquote, #archive small, #archive .grid a .year {
-    color: #222222; }
-  #archive a {
-    color: #00aeef; }
-    #archive a:hover, #archive a:active {
-      color: #4cc6f3; }
-  #archive code, #archive abbr, #archive acronym {
-    color: black; }
-  #archive .grid {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    *zoom: 1; }
-    #archive .grid:before, #archive .grid:after {
-      content: " ";
-      display: table; }
-    #archive .grid:after {
-      clear: both; }
-    #archive .grid li {
-      display: inline-block;
-      width: 5em; }
-  #archive .grid a {
-    display: block;
-    overflow: hidden;
-    padding: 0.25em;
-    background-color: #b3b3b3;
-    border-radius: 0.5em;
-    -webkit-transition: background-color 0.3s;
-    -moz-transition: background-color 0.3s;
-    -ms-transition: background-color 0.3s;
-    -o-transition: background-color 0.3s;
-    transition: background-color 0.3s; }
-    #archive .grid a:hover, #archive .grid a.active {
-      background-color: #00aeef; }
-    #archive .grid a .month {
-      color: white;
-      line-height: 1.5em;
-      margin: 0; }
-      #archive .grid a .month:before, #archive .grid a .month:after {
-        content: "\2022";
-        display: inline-block; }
-      #archive .grid a .month:before {
-        float: left; }
-      #archive .grid a .month:after {
-        float: right; }
-    #archive .grid a .day {
-      background-color: white;
-      margin: 0;
-      line-height: 1.25em; }
-    #archive .grid a .year {
-      background-color: white;
-      border-top: 1px dashed #b3b3b3;
-      line-height: 2em;
-      border-radius: 0 0 0.25em 0.25em; }
 
 #footer {
   color: #a6a6a6;
@@ -4040,7 +3876,7 @@ button, .button {
   border-radius: 0;
   margin-top: 0;
   padding: 0.5em 0; }
-  #footer h1, #footer h2, #footer h3, #footer #archive .grid a .day, #archive .grid a #footer .day, #footer h4, #footer h5, #footer h6, #footer #archive .grid a .month, #archive .grid a #footer .month, #footer .subheader, #footer p, #footer blockquote, #footer small, #footer #archive .grid a .year, #archive .grid a #footer .year {
+  #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer .subheader, #footer p, #footer blockquote, #footer small {
     color: #a6a6a6; }
   #footer a {
     color: #3dcaff; }
