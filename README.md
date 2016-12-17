@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Geek Night
 
-You can use the [editor on GitHub](https://github.com/belaguru/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An open forum for geeks to connect, discuss &amp; learn latest ideas, technologies and trends in software development
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quick Start & Auto Deployment
 
-### Markdown
+From the GitHub page, navigate to `content` folder and create/edit a `yyyy-mm.html` file. See [content/example.html](content/example.html) for possible parameters. If you save, the changes are automatically deployed at "yet to decide"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**NOTE:** GitHub's "create/edit file" buttons are very small and hard to find, but they are there (as long as you're logged in and have push rights to this repo).
 
-# Header 1
-## Header 2
-### Header 3
+## Manual Development
 
-- Bulleted
-- List
+We're using [nanoc](//nanoc.ws) for static site generation. Jekyll/Octopress are hard-coded for blogging, while Nanoc is much simpler, doesn't take any assumptions and allows to build whatever type of content (not just blogs).
 
-1. Numbered
-2. List
+* Make sure you have RVM installed
+* Clone this repo
+* Run `bundle install`
+* Run `nanoc` to compile the website
+* Run `nanoc view` to start a server and browse to `localhost:3000`
 
-**Bold** and _Italic_ and `Code` text
+For ease, there is a Guardfile. You can run `bundle exec guard`, it will keep watching for changes and re-compile the site whenever any file is changed.
 
-[Link](url) and ![Image](src)
-```
+# Folder Structure
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* `assets` - contains all assets
+* `assets/app.sass` - contains the main stylesheet
+* `assets/img/speakers` - contains speaker images
+* `content` - content for each geek night
+* `layouts` - layouts for default and archive versions
+* `Rules` - routing rules
+* `gh-pages` - folder containing the generated site
 
-### Jekyll Themes
+# Front-End Development
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/belaguru/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Pure HTML/CSS/Javascript website. No JQuery.
+* Used [HTML5 Boilerplate](//html5boilerplate.com) to generate the skeleton.
+* Used [colourlovers.com](//colourlovers.com) for the color swatches.
+* Using [SASS](//sass-lang.com) and [Foundation](//foundation.zurb.com) for all the Styling.
+* Icon fonts were generated and downloaded from [Fontello](//fontello.com). Only icons from the *Modern Pictogram* set were used for consistency.
